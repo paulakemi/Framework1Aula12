@@ -1,0 +1,32 @@
+p{
+    margin: 5px;
+    padding: 5px;
+}
+#itensecos{
+border-style: solid;
+border-color: black;
+background-color: rgb(245, 239, 239);
+font-weight: bold;
+}
+#itensmolhados{
+    border-style: solid;
+    border-color: blue;
+    background-color: rgb(245, 239, 239);
+    font-weight: bold;
+}#itensfrageis{
+border-style: solid;
+border-color: red;
+background-color: rgb(245, 239, 239);
+font-weight: bold;
+}
+#unica{
+    background-color: rgb(245, 239, 239);
+    text-shadow: 1px 0px 1px rgb(0, 0, 0);
+    border: 1px;
+
+}
+#incio{
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(4, 14, 102);
+    color: blue;
+}
